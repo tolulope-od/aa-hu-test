@@ -1,0 +1,19 @@
+{
+  "name": "aa-hu-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tolulope-od/aa-hu-test.git"
+  },
+  "author": "Tolulope Odueke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolulope-od/aa-hu-test/issues"
+  },
+  "homepage": "https://github.com/tolulope-od/aa-hu-test#readme"
+}
